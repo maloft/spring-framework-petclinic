@@ -43,5 +43,9 @@ public class BaseEntity {
     public boolean isNew() {
         return this.id == null;
     }
+    
+    //Erreur de compilation
+    
+    {
 
 }
