@@ -44,8 +44,5 @@ public class BaseEntity {
         return this.id == null;
     }
     
-    //Erreur de compilation
-    
-    {
 
 }
